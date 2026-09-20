@@ -1,0 +1,14 @@
+{
+  "name": "دفتر کلاسی اختصاصی",
+  "short_name": "دفتر کلاسی",
+  "description": "سامانه دفتر کلاسی اختصاصی؛ روابط عمومی مدیریت آموزش و پرورش شهرستان اردل",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0b0b0d",
+  "theme_color": "#0b0b0d",
+  "dir": "rtl",
+  "lang": "fa",
+  "icons": [
+    {"src":"logo.jpg","sizes":"512x512","type":"image/jpeg","purpose":"any maskable"}
+  ]
+}
